@@ -8,7 +8,8 @@ This project analyzes data from a Portuguese banking institution's direct telema
 
 ## Dashboard Screenshot
 
-![Banking Campaign Dashboard]![Screenshot 2025-06-06 201129](https://github.com/user-attachments/assets/c611a8e2-3f75-451d-9839-3c335bf886bc)
+Banking Campaign Dashboard![image](https://github.com/user-attachments/assets/db9330d4-f8e7-4e04-a73a-ac7fffb55b1e)
+
 
 
 ## Key Findings & Recommendations
